@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1555116200 source:c:\users\top\desktop\a3_p5_20170331_201770204_20170178_g18_g19\main.cpp
+	<iostream>
+	<stack>
+	<cstring>
+
+1555117413 source:c:\users\top\desktop\a3_20170331_20170204_20170178_g18_g19\a3_p5_20170331_201770204_20170178_g18_g19\main.cpp
+	<iostream>
+	<stack>
+	<cstring>
+
